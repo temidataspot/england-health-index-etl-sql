@@ -1,7 +1,3 @@
-Here’s a concise and engaging **GitHub repository description** for your ETL project:  
-
----
-
 # **ETL Pipeline in R with BigQuery 🚀**  
 
 This repository contains an **end-to-end ETL pipeline** built in **R** to extract, clean, and load health index data into **Google BigQuery**. The project covers:  
@@ -24,7 +20,3 @@ This repository contains an **end-to-end ETL pipeline** built in **R** to extrac
 This ETL pipeline automates data ingestion for **health index tracking**, making data analysis **faster & cleaner**. Perfect for anyone working with **R and BigQuery**. 🚀  
 
 🔗 **Read the full guide** [Medium](https://medium.com/@temiloluwa.jokotola/building-an-etl-pipeline-in-r-integrating-with-bigquery-ba2bf19083a8)
-
----
-
-Let me know if you want to tweak it! 🎯
