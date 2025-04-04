@@ -22,4 +22,4 @@ This ETL pipeline automates data ingestion for **health index tracking**, making
 🔗 **Read the full guide** [Medium](https://medium.com/@temiloluwa.jokotola/building-an-etl-pipeline-in-r-integrating-with-bigquery-ba2bf19083a8)
 
 
-<iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/19e10516-f5a0-4204-a7ff-68f0159350f3/page/tEnnC" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+[Looker Dashbaord Analysis Comparing Health Index Parameters](<iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/19e10516-f5a0-4204-a7ff-68f0159350f3/page/tEnnC" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>)
